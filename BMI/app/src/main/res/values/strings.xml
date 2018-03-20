@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="sWzrost">Wzrost [cm]</string>
+    <string name="sMasa">Masa [kg]</string>
+    <string name="sPrzelicz">Przelicz</string>
+    <string name="tvOpis">Podaj wartość masy i wzrostu</string>
+    <string name="sBMI">Twój BMI:</string>
+    <string name="tvOcena" />
+    <string name="sOcena" />
+</resources>
